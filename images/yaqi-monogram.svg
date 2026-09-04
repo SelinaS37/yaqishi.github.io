@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Yaqi Shi</title>
+  <desc id="desc">A monogram portrait with the letters YS.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7e7ef"/><stop offset="1" stop-color="#f3e6dd"/></linearGradient></defs>
+  <circle cx="200" cy="200" r="194" fill="url(#bg)" stroke="#e7e7e7" stroke-width="8"/>
+  <text x="200" y="230" text-anchor="middle" fill="#6d8793" font-family="Arial,sans-serif" font-size="118" font-weight="700" letter-spacing="-12">YS</text>
+</svg>
+

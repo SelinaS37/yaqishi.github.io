@@ -1,0 +1,63 @@
+locale: "en-US"
+title: "Yaqi Shi (Selina)"
+title_separator: "-"
+name: &name "Yaqi Shi"
+description: &description "PhD Student / Department of Statistical Sciences, University of Toronto"
+url: "https://selinas37.github.io"
+baseurl: "/yaqishi.github.io"
+repository: "SelinaS37/yaqishi.github.io"
+remote_theme: academicpages/academicpages.github.io
+future: true
+read_more: "disabled"
+comments:
+  provider: false
+
+author:
+  name: "Yaqi Shi"
+  avatar: "images/yaqi-monogram.svg"
+  bio: "PhD Student / Department of Statistical Sciences"
+  location: "Toronto, ON"
+  employer: "University of Toronto"
+  employer_url: "https://www.statistics.utoronto.ca"
+  email: "yaqi.shi@mail.utoronto.ca"
+  github: "SelinaS37"
+  linkedin: "selina-yaqi-shi"
+
+include:
+  - _pages
+  - files
+exclude:
+  - Gemfile
+  - node_modules
+  - vendor
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
