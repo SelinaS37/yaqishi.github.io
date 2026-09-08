@@ -1,8 +1,8 @@
 locale: "en-US"
 title: "Yaqi Shi (Selina)"
 title_separator: "-"
-name: &name "Yaqi Shi"
-description: &description "PhD Student / Department of Statistical Sciences, University of Toronto"
+name: &name "Yaqi (Selina) Shi"
+description: &description "PhD Student in Statistics / University of Toronto"
 url: "https://selinas37.github.io"
 baseurl: "/yaqishi.github.io"
 repository: "SelinaS37/yaqishi.github.io"
@@ -13,9 +13,9 @@ comments:
   provider: false
 
 author:
-  name: "Yaqi Shi"
+  name: "Yaqi (Selina) Shi"
   avatar: "yaqi_shi_headshot.jpg"
-  bio: "PhD Student / Department of Statistical Sciences"
+  bio: "PhD Student in Statistics"
   location: "Toronto, ON"
   employer: "University of Toronto"
   employer_url: "https://www.statistics.utoronto.ca"
