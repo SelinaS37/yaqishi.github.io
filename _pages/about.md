@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](https://www.utoronto.ca), where I am advised by Professor [Jessica Gronsbell](https://sites.google.com/view/jgronsbell/home) and Professor [Linbo Wang](https://sites.google.com/site/linbowangpku/home). I expect to complete my PhD in June 2028.
+I am a PhD student in the [Department of Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](https://www.utoronto.ca), where I am advised by Professor [Jessica Gronsbell](https://sites.google.com/view/jgronsbell/home) and Professor [Linbo Wang](https://sites.google.com/site/linbowangpku/home). 
 
 I am a trainee in the [CANSSI Ontario STAGE Training Program](https://stage.utoronto.ca). Previously, I earned an MSc in Statistics from the University of Toronto and a Bachelor of Mathematics in Statistics and Actuarial Science from the University of Waterloo.
 
